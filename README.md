@@ -54,7 +54,8 @@ src/
 ```
 
 ## Demo Screenshots 📸
-<img width="1440" alt="Screenshot 2025-01-11 at 9 50 04 PM" src="https://github.com/user-attachments/assets/741c5a75-bdfe-4427-ad84-57c3fde32da9" />
+<img width="1440" alt="Screenshot 2025-01-11 at 9 50 04 PM" src="https://github.com/user-attachments/assets/af4a912a-31f8-41b6-8fd3-dec409e9681d" />
+
 
 
 ## Future Enhancements 🚀
